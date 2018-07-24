@@ -5,7 +5,7 @@ class Tviso {
 
         this.METHOD_GET = "get";
         this.METHOD_POST = "post";
-        this.BASE_URL = 'http://api.tviso.com/';
+        this.BASE_URL = 'https://api.tviso.com/';
     }
 
     getAuthToken () {
